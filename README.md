@@ -1,5 +1,3 @@
-# inverted-index-search-engine
-
 # Inverted Index Construction and Search System  
 **CPS842: Information Retrieval and Web Search – Assignment 1 (Fall 2025)**
 
