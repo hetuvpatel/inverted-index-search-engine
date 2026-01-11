@@ -1,0 +1,7 @@
+{
+  "stemming": true,
+  "stopwords_on": true,
+  "stopwords_path": "./stopwords.txt",
+  "input": "./cacm.tar.gz",
+  "docs": 3204
+}
